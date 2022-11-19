@@ -1,0 +1,16 @@
+
+.fr{
+  display: flex; 
+  justify-content: flex-end; 
+  list-style: none;
+  margin-right: 20px;
+}
+li{
+    margin-right: 20px;
+}
+#bnt{
+    border-radius: 50px;
+    background-color: darkslategray;
+    color: white;
+    
+}
